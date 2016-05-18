@@ -1,14 +1,11 @@
 ########## Data Segment ##########
 	.data
-matrix: .space 80800		# 100 * 101 * 8
+matrix: .space 80800		# 100 * 101 * 8	
 solution: .space 800		# 100 * 8
 	
 filename: .space 20
 	
 msg1: .asciiz "Enter matrix size: "
-msg2: .asciiz "Enter matrix input filename: "
-msg3: .asciiz "Enter solution vector output filename: "
-msg4: .asciiz "The produced solution vector should be written to the output file: "
 
 newline: .asciiz "\n"
 whitespace: .asciiz " "
