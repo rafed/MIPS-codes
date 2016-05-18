@@ -1,17 +1,15 @@
 # ======================================
-# Lab no. 1
 # Title: Matrix multiplication
 #
 # Coded by: Rafed Muhammad Yasir
-# 			BSSE 0733
 #
 # Execution test case:
 # matrixA = [1, 2]	matrixB = [5, 6]
-#			[3, 4]			  [7, 8]
+#	    [3, 4]		  [7, 8]
 # 
 # Expected result:
 # result = [19, 22]
-#		   [43, 50]
+# 	   [43, 50]
 # ======================================
 
 ########## Data Segment ##########
