@@ -7,6 +7,6 @@ Codes in the repository:
 
 2. Printing rectangles - prints rectangles with dots after a definite time interval
 
-3. Histogram - takes a string input, counts each character and creates a histogram. The histogram is the rotated 180 degrees.
+3. Histogram - takes a string input, counts each character and creates a histogram. The histogram is then rotated 90 degrees.
 
 4. Gaussian elimination - solves a linear system with the gaussian elimination techinique. This code might have some errors (may fail where there are more than three variables)
