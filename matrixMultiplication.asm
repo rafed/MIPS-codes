@@ -1,5 +1,5 @@
 # ======================================
-# Title: Matrix multiplication
+# Title: MIPS matrix multiplication
 #
 # Coded by: Rafed Muhammad Yasir
 #
